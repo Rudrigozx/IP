@@ -1,6 +1,6 @@
-Introdução a Programação
+# Introdução a Programação
 
-Projeto da disciplina introdução a programação, utilizando a linguagem c 
+- Projeto da disciplina introdução a programação, utilizando a linguagem c 
 
 Este programa é uma galeria onde voce cadastra determinados times e seus titulos 
 por categoria mas dando preferencia a times brasileiros e seus titulos(mas outros 
